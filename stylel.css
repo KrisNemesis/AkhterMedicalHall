@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+    background-color: #21c3cd;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.hothot{
+    color: #fff;
+    
+}
+.hotnot{
+    text-align: center;
+    padding: 90px 90px;
+}
+.reload{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    color: #333;
+    margin-bottom: 60px;
+    
+}
+iframe{
+    width: 82%;
+    height: 500px;
+    filter: invert(100%);
+}
